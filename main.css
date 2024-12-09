@@ -374,6 +374,16 @@ input {
     width: 350px;
     height: 370px;
   }
+
+  .foto {
+    display: block;
+    gap:100px;
+  }
+
+  .rasm {
+    display:block;
+    gap:50px;
+  }
 }
 
 @keyframes left-zoom {
